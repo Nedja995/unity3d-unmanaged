@@ -1,0 +1,4 @@
+﻿  Plugin.cpp
+     Creating library build/release\ASimplePlugin.lib and object build/release\ASimplePlugin.exp
+  TexturePlugin.vcxproj -> D:\Projects\Zumoko\unity3d-unmanaged\SolutionUnmanagedDLL\VS2008Plugin\VisualStudio\build/release\ASimplePlugin.dll
+  TexturePlugin.vcxproj -> build/release\ASimplePlugin.pdb (Full PDB)
